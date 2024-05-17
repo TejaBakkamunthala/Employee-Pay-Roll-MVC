@@ -1,0 +1,273 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DotNetProgramss\\EmployeePayRoll\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\employee\\getname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\employee\\getname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\employee\\getbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\employee\\getbyname.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B6DBF-1057-4FAF-885F-3433356FBC8B}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\dotnetprogramss\\repositorylayer\\services\\employeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B6DBF-1057-4FAF-885F-3433356FBC8B}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\dotnetprogramss\\repositorylayer\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\employee\\getemployebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\employee\\getemployebyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99CCBCE-CF37-45D9-A3B3-7AEE511FB0C4}|..\\BusinessLayer\\BusinessLayer.csproj|f:\\dotnetprogramss\\businesslayer\\services\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B99CCBCE-CF37-45D9-A3B3-7AEE511FB0C4}|..\\BusinessLayer\\BusinessLayer.csproj|f:\\dotnetprogramss\\businesslayer\\interfaces\\iemployeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D73B6DBF-1057-4FAF-885F-3433356FBC8B}|..\\RepositoryLayer\\RepositoryLayer.csproj|f:\\dotnetprogramss\\repositorylayer\\interfaces\\iemployeerl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D99C30-C6FA-4376-85E4-36C79C310F6C}|..\\ModelLayer\\ModelLayer.csproj|f:\\dotnetprogramss\\modellayer\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15D99C30-C6FA-4376-85E4-36C79C310F6C}|..\\ModelLayer\\ModelLayer.csproj|f:\\dotnetprogramss\\modellayer\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|f:\\dotnetprogramss\\employeepayroll\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6048F2F8-F685-433C-84F9-A042E54A099A}|EmployeePayRoll.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepositoryLayer\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Class1.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepositoryLayer\\Class1.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:17:34.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T10:14:37.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayer\\Services\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Services\\EmployeeBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayer\\Services\\EmployeeBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Services\\EmployeeBL.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAewD4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:49:46.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetName.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\GetName.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetName.cshtml",
+              "RelativeToolTip": "Views\\Employee\\GetName.cshtml",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAAACoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:19:33.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetByName.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\GetByName.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetByName.cshtml",
+              "RelativeToolTip": "Views\\Employee\\GetByName.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T05:13:21.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAewMwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:56:24.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Services\\EmployeeRL.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAuwO4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T03:47:55.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T09:02:34.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetEmployeById.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetEmployeById.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\GetEmployeById.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Employee\\GetEmployeById.cshtml",
+              "RelativeToolTip": "Views\\Employee\\GetEmployeById.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T06:09:26.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IEmployeeBL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\BusinessLayer\\Interfaces\\IEmployeeBL.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Interfaces\\IEmployeeBL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\BusinessLayer\\Interfaces\\IEmployeeBL.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Interfaces\\IEmployeeBL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T05:56:10.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRL.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\RepositoryLayer\\Interfaces\\IEmployeeRL.cs",
+              "RelativeDocumentMoniker": "..\\RepositoryLayer\\Interfaces\\IEmployeeRL.cs",
+              "ToolTip": "F:\\DotNetProgramss\\RepositoryLayer\\Interfaces\\IEmployeeRL.cs",
+              "RelativeToolTip": "..\\RepositoryLayer\\Interfaces\\IEmployeeRL.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:37:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayer\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\LoginModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayer\\LoginModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:37:47.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T05:27:24.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "F:\\DotNetProgramss\\EmployeePayRoll\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-17T03:37:14.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "F:\\DotNetProgramss\\ModelLayer\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "..\\ModelLayer\\EmployeeModel.cs",
+              "ToolTip": "F:\\DotNetProgramss\\ModelLayer\\EmployeeModel.cs",
+              "RelativeToolTip": "..\\ModelLayer\\EmployeeModel.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T04:37:43.097Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

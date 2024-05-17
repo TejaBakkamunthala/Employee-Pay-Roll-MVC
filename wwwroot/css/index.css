@@ -1,0 +1,30 @@
+﻿/* Custom CSS for table styling */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+}
+
+    .table th, .table td {
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
+
+    .table th {
+        background-color: #f2f2f2;
+        font-weight: bold;
+    }
+
+    .table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    .table tr:hover {
+        background-color: #ddd;
+    }
+
+    .table img {
+        max-width: 50px;
+        max-height: 50px;
+        border-radius:  50%;
+    }

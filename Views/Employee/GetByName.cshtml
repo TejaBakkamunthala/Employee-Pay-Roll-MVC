@@ -1,0 +1,32 @@
+﻿@model ModelLayer.EmployeeModel
+
+@{
+    ViewData["Title"] = "Get By Name";
+}
+
+<h2>Get By Name</h2>
+
+
+<div class="row d-flex justify-content-center">
+    <form asp-controller="Employee" asp-action="GetByName" method="post">
+        <div class="form-group m-3">
+            <div class="d-flex flex-row">
+                <label asp-for="EmpName" class="control-label" style="margin-right:35px;margin-left:-10px"></label>
+                <input asp-for="EmpName" class="form-control ml-5" style="margin-left:30px; margin-right:5px;" placeholder="Enter Your Name" />
+            </div>
+            <span asp-validation-for="EmpName" class="text-danger"></span>
+        </div>
+
+
+        <div class="form-group m-3" style="text-align:end">
+            <input type="submit" value="GetByName" class="btn btn-primary" />
+        </div>
+    </form>
+</div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
